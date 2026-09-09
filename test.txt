@@ -1,5 +1,5 @@
 Hello from Clone
-Second line 
+Second line
 Edited from GitHub
-Feature branch change 
-Fetch test 
+Feature branch change
+Fetch test
