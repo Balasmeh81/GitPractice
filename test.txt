@@ -1,4 +1,4 @@
-Hello Git 
+Hello from Original
 Second line 
 Edited from GitHub
 Feature branch change 
